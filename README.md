@@ -1,1 +1,1 @@
-Rails Tutorial sample app.
+Rails Tutorial sample app. See [Ruby on Rails Tutorial](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com)
